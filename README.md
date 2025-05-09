@@ -1,26 +1,37 @@
 # COMM4190 Spring 2025 - Research Project
 
-* Use this repository for your Research Project
+# PROJECT DESCRIPTION AND OVERVIEW
 
+## LLMs as Emotional Counselors: Analyzing AI Communication in Sensitive Health Contexts
 
-### Overview
+This research examines how large language models (LLMs) function as informal mental health resources. As AI systems become increasingly accessible, people turn to them with deeply personal health concerns—from depression and grief to medical questions. This shift raises important questions about how these models communicate sensitive information and the implications for user wellbeing.
 
-* The focus of this project is to either:
-  1. Select a theoretical communication framework (e.g. Accomodation Theory) developed to explain human communication behavior and explore its implications for communicating with (in both senses) an LLM.
-  2. Examine a specific communicative context or example (e.g. political debate, interaction between customer and service representive, a messaging campaign in health communication, etc.) and explore whether and how LLMs might be used and the associated implications.
- 
-     
-* Write a paper/report in Markdown using Zotero citations.
+### Project Scope
 
+This study evaluates how ChatGPT-4 and Claude-3-Opus respond to emotionally charged health queries across six domains:
+- Mental health disclosure
+- Reproductive loss
+- Diagnostic requests
+- Chronic illness despair
+- Bereavement
+- Health misinformation
 
-### Method
+Responses are analyzed based on tone, clarity, disclaimer use, and ethical boundaries to identify patterns in AI-human communication during vulnerable moments.
 
-* Add notebooks, Markdown files, your BibTex bibliography file, PDFs, images etc. to the repo related to your project.
-* The report should be in a Notebook and use the citation extension of JupyterLab to add citations.
-* You can render the Notebook to PDF using "Save and Export as" function in JupyterLab.
-* You make have additional notebooks or other files to show your empirical LLM work.
+### Research Motivation
 
----
+This research was motivated by:
+1. Increasing user reliance on AI for emotional support
+2. Ethical concerns about clinical boundaries 
+3. Questions about trust dynamics when AI simulates empathy
+4. Inconsistent safeguards across platforms
 
-### DELETE THE ABOVE CONTENT AND USE THIS FILE TO PROVIDE A DESCRIPTION AND OVERVIEW OF YOUR PROJECT
+### Significance
 
+This project contributes to AI ethics in healthcare by:
+- Documenting how current LLMs handle emotionally charged health scenarios
+- Identifying specific communication patterns across different models
+- Highlighting risks associated with different approaches to emotional design
+- Offering recommendations for responsible development
+
+By understanding how LLMs communicate in these high-stakes contexts, we can develop design approaches that balance emotional support with appropriate ethical boundaries—ensuring AI systems enhance rather than complicate human wellbeing.
